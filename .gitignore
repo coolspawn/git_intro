@@ -1,0 +1,5 @@
+*.py
+venv
+*.txt
+.idea/*
+.idea/
